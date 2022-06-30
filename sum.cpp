@@ -16,6 +16,6 @@ std::ios_base::sync_with_stdio(false);
 int a = 5;
 int b = 2;
 int sum = a + b;
-cout<<sum<<endl;
+cout<<"sum is = "<<sum<<endl;
 return 0;
 }
